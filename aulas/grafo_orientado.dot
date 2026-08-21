@@ -1,0 +1,15 @@
+Digraph G2 {
+    a
+    b
+    c
+    d
+    e
+    f
+    a -> b
+    a -> c
+    b -> d
+    c -> d
+    c -> e
+    d -> f
+    e -> f
+}
